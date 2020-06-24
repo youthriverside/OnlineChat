@@ -4,7 +4,7 @@
 聊天室 
 </title> 
 </head> 
-<META HTTP-EQUIV=Refresh CONTENT="5; URL=_b.php"> 
+<META HTTP-EQUIV=Refresh CONTENT="5; URL=top.php"> 
 <body bgcolor="#EFEFEF"> 
 <?php 
 $handle=fopen("msg.txt","r"); 
