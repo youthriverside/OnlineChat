@@ -16,3 +16,21 @@
 每一个人的信息安全都应当被注意，  
 哪怕只是一个14岁的孩子  
 
+# Foreword
+As we all know, some parents and teachers will peep at their children’s communication software (such as ICQ, WeChat, QQ) and social software (Tumblr, facebook, circle of friends) without their children’s knowledge.
+This is a bad behavior. Because every child's freedom of communication deserves to be respected, this is the right of every child (including me). This behavior is particularly significant in Chinese education.
+Many teachers will also check students' communication software and equipment, which is legally prohibited. People's Education Edition "Moral and Rule of Law" also mentioned that citizens have the right to privacy.
+The protection of privacy lies in the efforts of everyone, not the formalism of the voice.
+Some shameless people will insist on looking at their children's communication equipment, to the extreme of illegality.
+Therefore, I developed an online chat platform, drawing on the code of many people.
+It aims to make everyone less familiar with the platform that parents and teachers are familiar with.
+# Principle
+The platform is divided into three modules: index.php top.php input.php
+Need to run in PHP environment, the memory footprint is relatively small.
+Test site: [click to visit](https://liuboyuan.fun/chat)
+# Postscript
+At the end, I hope you can give your valuable opinions.
+We will protect the privacy of every student from infringement,
+Everyone’s information security should be noted,
+Even if it’s just a 14-year-old child
+
