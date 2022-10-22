@@ -20,7 +20,7 @@ $fp = fopen("msg.txt","a+");
 $time = date("h:i"); 
 fwrite($fp,"<font color=\"blue\">".$person."</font> in <font color=\"red\">".$time."</font>  says that  <b>".$msg."</b><br>"."\n"); 
 for ($i =0;$i<$tot;++$i){ 
-if ($i>50) break; 
+if ($i>10000) break; //改变消息覆盖阈值
 fwrite($fp,$oldmsg[$i]); 
 } 
 } 
