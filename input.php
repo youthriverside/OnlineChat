@@ -43,7 +43,7 @@ fwrite($fp,$oldmsg[$i]);
 
 <table width = "100%" border = "0"> 
 <tr> 
-<form action="_a.php" method = "post"> 
+<form action="input.php" method = "post"> 
 <td align="left"> 
 <font size="-1">昵称：</font> 
 <input type="text" name="person" size="12" maxlength="80" value="<?php echo $person;?>"> 
