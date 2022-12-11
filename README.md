@@ -1,7 +1,7 @@
 # 部署
 本平台分为index.php top.php input.php三个模块  
 **安装前需要在网站根目录添加文件`msg.txt`**  
-需要在PHP环境下运行，内存占用比较小。  
+需要在PHP环境下运行，具有资源占用小的特点。  
 测试站点: [点击访问](https://liuboyuan.fun/chat)  
 
 # 后记
